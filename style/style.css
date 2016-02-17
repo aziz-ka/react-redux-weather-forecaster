@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  padding: 20px 0;
+}
+form {
+  margin-bottom: 40px;
+}
+td, th {
+  text-align: center !important;
+}
+td:first-of-type {
+  height: 50px;
+  min-width: 125px;
+}
